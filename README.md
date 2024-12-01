@@ -2,7 +2,7 @@
 
 **To cite:**
 
-_Hamilton A, Clapp G, Colton R, Tulchinsky A, Klein E, and Lin G. Covasim-G: A method for projecting COVID-19 health burden by demographic and geographic groups. In: Proceedings of the 2024 Winter Simulation Conference. Florida: Lam H, Azar E, Batur D, Gao S, Xie W, Hunter S R, and Rossetti M D, eds.; 2024._
+>_Hamilton A, Clapp G, Colton R, Tulchinsky A, Klein E, and Lin G. Covasim-G: A method for projecting COVID-19 health burden by demographic and geographic groups. In: Proceedings of the 2024 Winter Simulation Conference. Florida: Lam H, Azar E, Batur D, Gao S, Xie W, Hunter S R, and Rossetti M D, eds.; 2024._
 
 This repo contains a series of Jupyter notebooks for formatting GREASYPOP files for Covasim. Covasim (COVID-19 agent-based simulator) is an open-source agent-based model by the Institute for Disease Modeling for simulating COVID-19 tranmission. GREASYPOP-CO is an open-source software built by One Health Trust for generating geographically realistic synthetic populations. By using Covasim with a GREASYPOP population (Covasim-G), you can explore COVID-19 outcomes both spatially (down to the Census Block Group) and across demographic groups (age, race, gender, occupation). See the following references to learn more:
 
