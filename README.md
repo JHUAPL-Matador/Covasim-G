@@ -55,6 +55,6 @@ Save the GREASYPOP files in a folder called 'data' in this repo then go through 
 - `5_sim_by_subgroup.ipynb`: Custom analyzer for storing simulated deaths by age, gender, and race
 - `6_sim_by_county.ipynb`: Custom analyzer for storing simulated deaths by county
 
-The following supplementary notebooks process observed data for the example of Maryland, DC, and northern virginia. You'll want to do this yourself for your location of interest, but these files are here for reference.
+The following supplementary notebooks process observed data for the example of Maryland, DC, and northern Virginia. You'll want to do this yourself for your location of interest, but these files are here for reference.
 - `i_process_observed.ipynb`: Processes observed cases and deaths for Maryland, DC, and northern Virginia.
 - `ii_process_observed_by_subgroup.ipynb`: Processes observed deaths for Maryland by age, gender, and race.
